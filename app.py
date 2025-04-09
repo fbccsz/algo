@@ -51,10 +51,11 @@ elif menu == "Feedbacks de Clientes":
 for sentimento in ['Positivo', 'Neutro', 'Negativo']:
     st.markdown(f"**{sentimento}s**")
     comentarios_filtrados = df_com_sentimento[df_com_sentimento["Sentimento"] == sentimento]
-    if comentarios_filtrados.empty:
+    
+    if len(comentarios_filtrados) == 0:
         st.write("- Nenhum comentário disponível.")
     else:
-        exemplos = comentarios_filtrados.sample(n=min(2, len(comentarios_filtrados)))
+        exemplos = comentarios_filtrados.sample(n=min(2, len(comentarios_filtrados)), random_state=42)
         for i, row in exemplos.iterrows():
             st.write(f"- {row['Comentário']}")
 
