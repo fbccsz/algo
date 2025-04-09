@@ -1,0 +1,201 @@
+Data,Cidade,Transportadora,Distância_km,Tempo_estimado_h,Tempo_real_h,Status,Custo_R$
+2025-03-21,Belo Horizonte,RápidoCarga,300,5.48,7.33,Atrasada,498.78
+2025-03-13,Porto Alegre,ViaEntrega,323,7.45,10.17,Atrasada,321.86
+2025-03-22,Belo Horizonte,RápidoCarga,218,5.21,8.1,Atrasada,388.36
+2025-03-19,São Paulo,LogExpress,486,8.32,8.65,Entregue,697.25
+2025-03-28,Belo Horizonte,LogExpress,327,6.44,6.49,Entregue,511.49
+2025-03-15,São Paulo,LogExpress,442,10.76,10.17,Entregue,703.36
+2025-03-12,Belo Horizonte,LogExpress,113,1.89,1.9,Entregue,90.83
+2025-03-12,São Paulo,TransLog,475,8.64,7.95,Entregue,737.29
+2025-03-18,Rio de Janeiro,RápidoCarga,477,8.47,10.14,Atrasada,565.64
+2025-03-26,São Paulo,TransLog,95,2.31,5.15,Atrasada,145.39
+2025-03-30,Rio de Janeiro,RápidoCarga,87,1.64,2.75,Atrasada,159.82
+2025-03-30,São Paulo,TransLog,145,2.93,3.19,Entregue,118.38
+2025-04-06,Curitiba,TransLog,445,9.28,9.13,Entregue,451.05
+2025-04-08,Porto Alegre,TransLog,305,6.09,8.15,Atrasada,450.43
+2025-03-28,Rio de Janeiro,LogExpress,173,3.01,5.4,Atrasada,300.1
+2025-04-02,Porto Alegre,LogExpress,129,2.85,4.04,Atrasada,222.62
+2025-03-25,São Paulo,TransLog,10,0.17,-0.24,Entregue,13.99
+2025-04-07,Curitiba,RápidoCarga,150,3.28,3.63,Entregue,254.26
+2025-03-28,Rio de Janeiro,TransLog,473,8.36,10.43,Atrasada,796.22
+2025-03-29,Belo Horizonte,TransLog,238,5.01,7.23,Atrasada,302.59
+2025-03-12,São Paulo,ViaEntrega,231,4.03,3.46,Entregue,358.4
+2025-04-05,Porto Alegre,TransLog,66,1.24,1.49,Entregue,57.73
+2025-03-22,Belo Horizonte,LogExpress,330,6.04,8.95,Atrasada,650.12
+2025-03-20,São Paulo,ViaEntrega,99,2.25,3.88,Atrasada,187.91
+2025-04-06,Porto Alegre,LogExpress,281,6.63,5.95,Entregue,426.89
+2025-03-12,Belo Horizonte,RápidoCarga,19,0.34,2.7,Atrasada,34.16
+2025-04-08,Porto Alegre,RápidoCarga,363,6.73,8.46,Atrasada,442.94
+2025-03-27,Curitiba,ViaEntrega,240,4.65,7.59,Atrasada,280.33
+2025-04-08,Rio de Janeiro,ViaEntrega,170,3.49,4.47,Entregue,163.57
+2025-03-21,Curitiba,RápidoCarga,43,0.89,2.54,Atrasada,70.88
+2025-03-30,São Paulo,LogExpress,144,2.69,4.79,Atrasada,118.5
+2025-03-20,Belo Horizonte,ViaEntrega,234,4.44,4.75,Entregue,324.14
+2025-03-25,Porto Alegre,ViaEntrega,405,9.71,11.64,Atrasada,627.88
+2025-03-13,Curitiba,LogExpress,117,2.32,5.27,Atrasada,131.71
+2025-04-08,São Paulo,ViaEntrega,135,2.78,5.31,Atrasada,150.7
+2025-03-17,São Paulo,RápidoCarga,275,6.17,7.36,Atrasada,252.56
+2025-03-20,São Paulo,TransLog,141,3.3,5.75,Atrasada,136.97
+2025-03-30,Porto Alegre,ViaEntrega,85,1.77,2.98,Atrasada,97.07
+2025-03-25,Porto Alegre,RápidoCarga,30,0.61,-0.36,Entregue,43.13
+2025-04-09,Rio de Janeiro,ViaEntrega,267,4.74,6.82,Atrasada,309.15
+2025-03-25,São Paulo,LogExpress,369,6.5,9.29,Atrasada,596.04
+2025-03-21,Belo Horizonte,LogExpress,253,4.49,5.05,Entregue,398.17
+2025-04-08,São Paulo,RápidoCarga,164,2.84,2.48,Entregue,303.94
+2025-03-15,Curitiba,TransLog,210,4.12,3.68,Entregue,379.27
+2025-03-30,Curitiba,ViaEntrega,351,6.2,5.83,Entregue,533.17
+2025-03-15,Rio de Janeiro,LogExpress,492,10.56,13.5,Atrasada,463.84
+2025-03-18,Belo Horizonte,LogExpress,114,2.0,2.98,Entregue,181.89
+2025-03-22,Belo Horizonte,LogExpress,370,8.87,9.57,Entregue,309.06
+2025-03-11,Curitiba,TransLog,143,3.31,4.54,Atrasada,257.24
+2025-03-26,Curitiba,LogExpress,490,10.38,11.74,Atrasada,919.66
+2025-03-28,São Paulo,ViaEntrega,271,5.44,7.12,Atrasada,447.66
+2025-03-31,São Paulo,LogExpress,487,9.12,9.45,Entregue,403.55
+2025-04-06,Curitiba,LogExpress,305,5.36,8.16,Atrasada,521.58
+2025-04-09,Rio de Janeiro,RápidoCarga,383,6.57,8.05,Atrasada,690.22
+2025-03-14,São Paulo,RápidoCarga,241,5.29,5.77,Entregue,472.47
+2025-04-09,Belo Horizonte,ViaEntrega,426,7.6,10.6,Atrasada,844.23
+2025-04-03,Rio de Janeiro,RápidoCarga,484,10.68,12.85,Atrasada,812.75
+2025-04-03,Porto Alegre,RápidoCarga,375,6.29,8.35,Atrasada,669.05
+2025-04-08,Belo Horizonte,RápidoCarga,374,6.4,6.78,Entregue,324.96
+2025-03-30,São Paulo,TransLog,371,8.82,11.54,Atrasada,596.88
+2025-03-26,Curitiba,TransLog,149,3.2,2.36,Entregue,283.24
+2025-03-25,Belo Horizonte,TransLog,388,9.66,9.49,Entregue,587.06
+2025-03-10,Belo Horizonte,TransLog,319,6.3,5.91,Entregue,553.56
+2025-03-12,Rio de Janeiro,TransLog,198,4.08,5.78,Atrasada,184.4
+2025-03-21,Rio de Janeiro,TransLog,147,2.79,2.28,Entregue,289.87
+2025-04-03,São Paulo,LogExpress,285,5.99,7.8,Atrasada,392.13
+2025-03-21,Curitiba,RápidoCarga,65,1.34,0.45,Entregue,53.77
+2025-03-20,Belo Horizonte,LogExpress,118,2.34,3.05,Entregue,202.55
+2025-03-16,São Paulo,TransLog,484,11.57,11.23,Entregue,965.47
+2025-04-02,Rio de Janeiro,ViaEntrega,447,7.69,8.62,Entregue,402.6
+2025-04-05,São Paulo,TransLog,325,7.17,9.51,Atrasada,554.72
+2025-03-22,Curitiba,RápidoCarga,237,4.56,4.15,Entregue,465.0
+2025-03-12,Porto Alegre,ViaEntrega,102,1.77,3.72,Atrasada,138.39
+2025-04-05,Porto Alegre,ViaEntrega,360,6.65,7.52,Entregue,606.37
+2025-03-15,São Paulo,TransLog,200,4.18,6.26,Atrasada,279.65
+2025-03-27,Rio de Janeiro,TransLog,50,0.89,0.36,Entregue,92.08
+2025-03-27,Curitiba,LogExpress,377,7.26,9.99,Atrasada,509.77
+2025-03-27,Rio de Janeiro,TransLog,46,1.04,3.59,Atrasada,87.17
+2025-03-22,Porto Alegre,TransLog,91,1.94,4.13,Atrasada,170.6
+2025-04-08,São Paulo,ViaEntrega,234,5.15,6.5,Atrasada,207.59
+2025-04-02,Curitiba,TransLog,204,4.35,5.21,Entregue,308.37
+2025-03-10,São Paulo,ViaEntrega,34,0.76,2.28,Atrasada,33.71
+2025-04-09,Belo Horizonte,ViaEntrega,323,6.5,6.13,Entregue,488.55
+2025-03-11,Rio de Janeiro,LogExpress,42,0.8,0.67,Entregue,56.41
+2025-04-01,Rio de Janeiro,TransLog,10,0.21,1.84,Atrasada,12.32
+2025-03-26,São Paulo,RápidoCarga,205,4.2,5.28,Atrasada,269.1
+2025-03-20,Belo Horizonte,TransLog,166,4.05,5.79,Atrasada,183.86
+2025-03-20,Porto Alegre,TransLog,110,2.25,4.46,Atrasada,149.01
+2025-03-16,Curitiba,RápidoCarga,478,9.76,9.73,Entregue,537.77
+2025-03-13,São Paulo,RápidoCarga,213,3.76,6.29,Atrasada,195.18
+2025-03-23,Belo Horizonte,ViaEntrega,465,8.27,9.74,Atrasada,417.31
+2025-04-06,Belo Horizonte,RápidoCarga,110,2.05,3.37,Atrasada,216.79
+2025-03-12,Curitiba,ViaEntrega,66,1.53,2.57,Atrasada,56.93
+2025-03-20,Belo Horizonte,ViaEntrega,396,9.7,8.86,Entregue,723.09
+2025-04-06,Rio de Janeiro,LogExpress,288,5.7,5.8,Entregue,474.28
+2025-03-19,Belo Horizonte,TransLog,259,5.05,6.83,Atrasada,438.48
+2025-03-13,Porto Alegre,TransLog,389,8.22,9.77,Atrasada,548.85
+2025-03-19,Belo Horizonte,ViaEntrega,35,0.83,3.63,Atrasada,43.17
+2025-03-29,Belo Horizonte,LogExpress,334,5.84,4.97,Entregue,343.24
+2025-03-16,Rio de Janeiro,ViaEntrega,400,8.21,8.69,Entregue,689.67
+2025-03-12,Rio de Janeiro,LogExpress,109,2.3,2.18,Entregue,180.38
+2025-03-30,Rio de Janeiro,TransLog,462,9.77,11.15,Atrasada,781.35
+2025-03-28,São Paulo,LogExpress,44,0.74,0.68,Entregue,63.2
+2025-04-06,Porto Alegre,RápidoCarga,240,4.11,6.49,Atrasada,418.07
+2025-04-03,São Paulo,TransLog,420,7.7,8.9,Atrasada,495.28
+2025-03-31,Porto Alegre,RápidoCarga,353,6.32,5.81,Entregue,338.42
+2025-03-13,Rio de Janeiro,TransLog,465,8.61,8.02,Entregue,552.03
+2025-04-09,Curitiba,ViaEntrega,310,6.61,6.65,Entregue,338.89
+2025-04-02,Rio de Janeiro,TransLog,247,4.76,4.41,Entregue,387.71
+2025-03-25,Rio de Janeiro,RápidoCarga,486,10.62,13.08,Atrasada,544.3
+2025-03-15,Rio de Janeiro,ViaEntrega,95,1.99,1.35,Entregue,76.71
+2025-03-14,Rio de Janeiro,RápidoCarga,466,9.84,8.92,Entregue,649.39
+2025-03-31,Curitiba,ViaEntrega,383,8.94,10.11,Atrasada,397.01
+2025-04-02,Curitiba,RápidoCarga,254,6.01,6.62,Entregue,403.35
+2025-03-14,Porto Alegre,TransLog,488,9.68,9.5,Entregue,554.46
+2025-03-24,Belo Horizonte,ViaEntrega,97,2.22,1.7,Entregue,152.68
+2025-03-15,Belo Horizonte,LogExpress,259,6.03,6.86,Entregue,369.35
+2025-03-22,Rio de Janeiro,LogExpress,359,6.01,5.61,Entregue,333.17
+2025-04-09,Rio de Janeiro,LogExpress,239,5.82,8.25,Atrasada,474.75
+2025-04-09,Rio de Janeiro,RápidoCarga,420,10.26,10.43,Entregue,467.76
+2025-03-14,Porto Alegre,LogExpress,90,1.57,2.84,Atrasada,111.03
+2025-03-12,Porto Alegre,RápidoCarga,145,2.74,2.69,Entregue,191.12
+2025-03-13,Curitiba,LogExpress,482,11.16,12.61,Atrasada,909.59
+2025-03-28,Rio de Janeiro,RápidoCarga,109,2.11,2.05,Entregue,88.66
+2025-04-08,Belo Horizonte,TransLog,345,6.99,8.93,Atrasada,333.45
+2025-03-14,Curitiba,RápidoCarga,287,6.39,7.77,Atrasada,264.73
+2025-03-28,Porto Alegre,TransLog,119,2.97,2.08,Entregue,140.16
+2025-03-25,Rio de Janeiro,RápidoCarga,119,2.16,2.58,Entregue,191.05
+2025-03-21,Belo Horizonte,RápidoCarga,428,8.07,10.61,Atrasada,849.98
+2025-03-27,Curitiba,TransLog,490,8.86,10.45,Atrasada,946.45
+2025-03-18,Curitiba,TransLog,182,3.47,3.82,Entregue,246.7
+2025-03-18,Porto Alegre,LogExpress,435,8.83,10.07,Atrasada,566.13
+2025-04-02,Porto Alegre,TransLog,189,3.67,5.2,Atrasada,160.74
+2025-03-27,Belo Horizonte,RápidoCarga,325,7.63,7.72,Entregue,460.27
+2025-03-14,Belo Horizonte,RápidoCarga,467,9.07,11.62,Atrasada,402.92
+2025-03-13,Rio de Janeiro,TransLog,77,1.66,4.4,Atrasada,141.67
+2025-04-03,São Paulo,ViaEntrega,300,5.99,6.23,Entregue,527.47
+2025-03-10,Rio de Janeiro,ViaEntrega,304,5.08,5.27,Entregue,563.0
+2025-04-02,São Paulo,ViaEntrega,223,5.26,5.29,Entregue,268.57
+2025-04-02,Rio de Janeiro,TransLog,131,2.69,5.43,Atrasada,106.57
+2025-03-27,Rio de Janeiro,LogExpress,332,6.15,6.53,Entregue,561.26
+2025-03-19,São Paulo,ViaEntrega,430,9.83,11.94,Atrasada,807.14
+2025-03-21,Belo Horizonte,LogExpress,220,3.87,6.8,Atrasada,231.09
+2025-04-08,Rio de Janeiro,RápidoCarga,294,5.68,8.35,Atrasada,538.21
+2025-03-10,Belo Horizonte,TransLog,312,5.8,8.23,Atrasada,483.6
+2025-03-14,Curitiba,ViaEntrega,177,2.98,4.83,Atrasada,217.5
+2025-04-07,Belo Horizonte,TransLog,311,5.42,6.51,Atrasada,605.39
+2025-03-10,Belo Horizonte,LogExpress,271,4.66,4.9,Entregue,328.58
+2025-03-18,São Paulo,ViaEntrega,488,8.47,9.87,Atrasada,390.73
+2025-03-13,Curitiba,TransLog,127,3.11,4.45,Atrasada,176.18
+2025-03-21,São Paulo,ViaEntrega,474,8.73,11.36,Atrasada,947.02
+2025-04-09,Belo Horizonte,RápidoCarga,331,7.38,7.51,Entregue,288.9
+2025-04-06,Belo Horizonte,LogExpress,156,3.15,5.44,Atrasada,275.41
+2025-03-20,São Paulo,TransLog,170,3.01,3.69,Entregue,186.26
+2025-03-31,Curitiba,TransLog,372,6.45,5.58,Entregue,362.23
+2025-03-28,Rio de Janeiro,LogExpress,480,11.38,10.84,Entregue,757.14
+2025-03-11,São Paulo,TransLog,336,7.91,10.07,Atrasada,467.01
+2025-03-30,São Paulo,ViaEntrega,278,5.37,7.92,Atrasada,528.55
+2025-03-27,Belo Horizonte,TransLog,345,7.64,8.78,Atrasada,507.71
+2025-03-20,Belo Horizonte,ViaEntrega,413,9.46,11.79,Atrasada,385.21
+2025-04-06,Rio de Janeiro,TransLog,464,8.3,7.89,Entregue,601.64
+2025-03-24,Belo Horizonte,ViaEntrega,132,2.2,2.45,Entregue,151.25
+2025-03-29,Belo Horizonte,TransLog,390,8.99,11.66,Atrasada,529.77
+2025-03-17,Porto Alegre,ViaEntrega,342,6.84,9.18,Atrasada,649.14
+2025-03-12,São Paulo,ViaEntrega,314,7.8,8.2,Entregue,421.35
+2025-03-12,Belo Horizonte,RápidoCarga,265,5.36,7.34,Atrasada,291.69
+2025-04-06,Porto Alegre,ViaEntrega,268,6.25,7.14,Entregue,254.99
+2025-03-16,Rio de Janeiro,TransLog,439,10.06,9.31,Entregue,472.23
+2025-03-22,São Paulo,TransLog,22,0.46,0.33,Entregue,29.75
+2025-03-12,São Paulo,ViaEntrega,447,8.45,9.28,Entregue,549.73
+2025-03-27,Rio de Janeiro,TransLog,250,4.39,3.6,Entregue,229.8
+2025-03-19,Belo Horizonte,RápidoCarga,382,6.43,7.94,Atrasada,334.01
+2025-03-28,Rio de Janeiro,ViaEntrega,425,9.03,11.05,Atrasada,556.27
+2025-03-11,São Paulo,RápidoCarga,106,2.52,3.24,Entregue,137.84
+2025-03-13,Curitiba,LogExpress,458,8.22,9.03,Entregue,726.57
+2025-03-18,Curitiba,ViaEntrega,151,2.66,2.38,Entregue,190.71
+2025-03-28,Porto Alegre,ViaEntrega,480,11.06,10.47,Entregue,386.22
+2025-03-24,Rio de Janeiro,LogExpress,494,9.99,9.67,Entregue,454.62
+2025-03-21,São Paulo,ViaEntrega,91,1.98,3.49,Atrasada,121.26
+2025-04-01,São Paulo,RápidoCarga,350,7.15,9.11,Atrasada,656.83
+2025-03-28,Rio de Janeiro,LogExpress,223,4.31,4.69,Entregue,410.85
+2025-03-29,Rio de Janeiro,LogExpress,431,7.51,9.5,Atrasada,410.45
+2025-04-02,Curitiba,LogExpress,376,6.59,5.95,Entregue,425.91
+2025-03-22,Curitiba,ViaEntrega,335,5.61,6.79,Atrasada,398.43
+2025-03-24,São Paulo,LogExpress,159,2.97,5.91,Atrasada,189.58
+2025-03-17,São Paulo,RápidoCarga,306,5.78,5.04,Entregue,332.76
+2025-03-23,Belo Horizonte,TransLog,357,8.38,8.6,Entregue,651.6
+2025-03-31,Belo Horizonte,RápidoCarga,225,3.75,4.43,Entregue,349.12
+2025-03-27,Porto Alegre,TransLog,277,6.58,6.4,Entregue,352.73
+2025-04-03,Porto Alegre,TransLog,76,1.3,1.17,Entregue,70.12
+2025-04-07,Porto Alegre,TransLog,295,5.77,8.14,Atrasada,568.1
+2025-04-09,Curitiba,ViaEntrega,34,0.69,3.65,Atrasada,32.03
+2025-04-02,Porto Alegre,LogExpress,400,9.33,8.92,Entregue,643.59
+2025-03-22,Curitiba,TransLog,274,6.25,6.53,Entregue,428.99
+2025-04-09,Porto Alegre,RápidoCarga,28,0.6,0.13,Entregue,26.1
+2025-03-25,Porto Alegre,RápidoCarga,224,5.15,4.76,Entregue,349.18
+2025-04-03,Curitiba,TransLog,385,9.15,10.04,Entregue,585.66
+2025-04-01,Curitiba,TransLog,456,8.32,8.39,Entregue,585.78
+2025-03-21,Rio de Janeiro,ViaEntrega,454,9.07,9.24,Entregue,572.46
+2025-03-30,Rio de Janeiro,LogExpress,160,3.09,3.0,Entregue,218.45
