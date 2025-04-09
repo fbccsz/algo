@@ -47,19 +47,17 @@ elif menu == "Feedbacks de Clientes":
     sentimento_count = df_com_sentimento["Sentimento"].value_counts()
     st.bar_chart(sentimento_count)
 
-    st.subheader("Exemplos de Comentários")
-
-for sentimento in ['Positivo', 'Neutro', 'Negativo']:
-    st.markdown(f"**{sentimento}s**")
-    
-    comentarios_filtrados = df_com_sentimento[df_com_sentimento["Sentimento"] == sentimento]
-
-    if comentarios_filtrados.empty:
-        st.write("- Nenhum comentário disponível.")
-    else:
-        exemplos = comentarios_filtrados.sample(n=min(2, len(comentarios_filtrados)), random_state=42)
-        for i, row in exemplos.iterrows():
-            st.write(f"- {row['Comentário']}")
+        st.subheader("Exemplos de Comentários")
+    for sentimento in ['Positivo', 'Neutro', 'Negativo']:
+        st.markdown(f"**{sentimento}s**")
+        comentarios_filtrados = df_com_sentimento[df_com_sentimento["Sentimento"] == sentimento]
+        
+        if comentarios_filtrados.empty:
+            st.write("- Nenhum comentário disponível.")
+        else:
+            exemplos = comentarios_filtrados.sample(n=min(2, len(comentarios_filtrados)), random_state=42)
+            for i, row in exemplos.iterrows():
+                st.write(f"- {row['Comentário']}")
 
 
     st.subheader("Nuvem de Palavras dos Comentários")
