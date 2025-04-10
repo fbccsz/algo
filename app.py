@@ -6,7 +6,7 @@ from sentiment_analysis import aplicar_sentimento
 
 st.set_page_config(page_title="LogiData - Big Data na Logística", layout="wide")
 
-st.title("LogiData - Big Data na Logística")
+st.title("LogiData")
 
 # Menu lateral
 menu = st.sidebar.selectbox("Escolha a seção", ["Análise de Entregas", "Feedbacks de Clientes"])
